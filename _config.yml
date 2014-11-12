@@ -11,4 +11,4 @@ github_username:  dgodfrey95
 highlighter: rouge
 markdown: kramdown
 permalink: pretty
-exclude: ["README", "vendor", "node_modules"]
+exclude: ["README", "README.md", "vendor", "node_modules"]
