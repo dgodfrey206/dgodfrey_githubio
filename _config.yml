@@ -12,3 +12,5 @@ highlighter: rouge
 markdown: kramdown
 permalink: pretty
 exclude: ["README", "README.md", "vendor", "node_modules"]
+
+theme: jekyll-theme-minimal
